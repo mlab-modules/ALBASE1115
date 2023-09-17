@@ -9,7 +9,9 @@ images:
 - doc/img/ALBASE1115_small.jpg
 - doc/img/ALBASE1115_QRcode.png
 mark: 50
+status: 2
 tags:
 - albase
 - mlab
+- mlab-module
 title: ALBASE1115
